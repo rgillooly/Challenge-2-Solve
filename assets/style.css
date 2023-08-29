@@ -1,0 +1,41 @@
+.center {
+    text-align: center;
+    border: 3px solid #0c0066;
+}
+  
+.center2 {
+    text-align: center;
+}
+
+#Person {
+    float: left;
+    width: 50%;
+}
+
+#Sail {
+    float: left;
+    width: 25%;
+}
+
+.wrapper{
+    display: grid;
+    grid-template-columns: 1000px;
+    grid-template-rows: 500pxS;
+}
+
+.nav{
+    background-color: rgb(35, 35, 35);
+}
+
+.nav a {
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    padding-right: 14px 16px;
+    overflow: hidden;
+    text-align: center;
+}
+
+img {
+    width: 50%;
+}
