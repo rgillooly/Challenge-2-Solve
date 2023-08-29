@@ -4,14 +4,8 @@ To complete a website to display employee credentials in the form of a mock-up.
 USAGE:
 No pre-requisites to use.
 
+INSTALLATION:
+This is a website, so installation is unnecessary. However, pulling form this github will give you all the files.
 
-
-This site includes several elements.
-
-There is a navbar, which will take you to each entry.
-Each of these is header and a picture link.
-These links take you to two websites, each of which I have made.
-One is a personal resume website, for self promotion.
-The other is a website I made for my family's business.
-Both these websites are hosted via github pages.
-All links on both sites should work.
+LISENCE:
+No lisence, so use at your own risk.
