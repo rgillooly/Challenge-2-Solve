@@ -1,32 +1,34 @@
+/*Centers Text and adds a thin blue border*/
 .center {
     text-align: center;
     border: 3px solid #0c0066;
 }
-  
+/* Centers text with no border*/
 .center2 {
     text-align: center;
 }
-
+/*Puts oicture to the left and adjusts scale, the later properties of wrapper keep the picture square*/
 #Person {
     float: left;
     width: 50%;
 }
-
+/*Adjusting picture placement and scale again*/
 #Sail {
     float: left;
     width: 25%;
 }
-
+/*Makes the code inside display in one column of a certain size*/
 .wrapper{
     display: grid;
     grid-template-columns: 1000px;
-    grid-template-rows: 500pxS;
+    grid-template-rows: 500px;
 }
-
+/*Make the navbar itself black*/
 .nav{
     background-color: rgb(35, 35, 35);
 }
-
+/*Makes the text inside the bar appear white and makes it bigger, gives it padding, removes underlines from text,
+ makes it mot overflow to the next button and puts the text in the center of each button*/
 .nav a {
     color: white;
     font-size: 30px;
@@ -35,7 +37,7 @@
     overflow: hidden;
     text-align: center;
 }
-
+/*Makes all images 50% of their original widths*/
 img {
     width: 50%;
 }
